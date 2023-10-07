@@ -1,0 +1,13 @@
+@media (max-width: 400px) {
+    #book-details {
+        width: 80%;
+        background-color: #fff;
+        padding: 20px;
+        margin: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    #flex{
+        display: block;
+    }
+}
